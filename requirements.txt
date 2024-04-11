@@ -1,0 +1,5 @@
+opencv-python
+numpy
+PyMuPDF
+openai
+dotenv
